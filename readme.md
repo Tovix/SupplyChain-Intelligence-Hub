@@ -424,7 +424,7 @@ Contributions are welcome! Please follow these steps:
 ![Executive Summary Screenshot](Screenshots/exceutive.png)
 
 ### Sales Analysis Page
-![Sales Analysis](images/sales_analysis.png)
+![Sales Analysis](Screenshots/sales.png)
 
 ### Delivery Performance Page
 ![Delivery Performance](images/delivery_performance.png)
