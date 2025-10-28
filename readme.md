@@ -21,7 +21,6 @@ A comprehensive end-to-end Power BI dashboard analyzing e-commerce operations, s
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -411,20 +410,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## Contact
-
-**Your Name** - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/ecommerce-powerbi-dashboard](https://github.com/yourusername/ecommerce-powerbi-dashboard)
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgments
 
 - Dataset provided by [Bytadit on Kaggle](https://www.kaggle.com/bytadit)
@@ -436,9 +421,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ### Dashboard Preview
-*Add your dashboard screenshots here*
-
-![Executive Summary](images/dashboard_preview.png)
+![Executive Summary Screenshot](Screenshots/exceutive.png)
 
 ### Sales Analysis Page
 ![Sales Analysis](images/sales_analysis.png)
