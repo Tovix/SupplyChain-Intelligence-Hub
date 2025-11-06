@@ -421,10 +421,13 @@ Contributions are welcome! Please follow these steps:
 ## Screenshots
 
 ### Dashboard Preview
-![Executive Summary Screenshot](Screenshots/exceutive.png)
+![Executive Summary Screenshot](Screenshots/exceutive_n.png)
 
 ### Sales Analysis Page
-![Sales Analysis](Screenshots/sales.png)
+![Sales Analysis](Screenshots/sales_n.png)
+
+### Order Management Page
+![Order Management](Screenshots/order.png)
 
 ### Delivery Performance Page
 ![Delivery Performance](images/delivery_performance.png)
